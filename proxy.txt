@@ -1,0 +1,6 @@
+http://bul.
+http://egy.
+http://fin.
+http://frank.
+
+#adresy serwerów proxy do zmiany pobierania kolejnych podstron z innego adresu ip
